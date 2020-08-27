@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Add Banner
-Plugin URI: https://github.com/1000git/add-banner
-Description: リスト形式のバナーのセットを管理画面から複数作成することができる。
-Version: 2.0.0
+Plugin Name: WP Add Banner
+Plugin URI: https://github.com/1000git/wp-add-banner
+Description: リスト形式のバナーのセットを管理画面から複数作成することができるワードプレスプラグイン。
+Version: 2.0.1
 Author: Chiba Takeshi
 License: GPLv2 or later
 */
